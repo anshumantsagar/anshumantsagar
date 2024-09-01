@@ -1,7 +1,5 @@
 Hi 👋 My name is Anshumant
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anshumantsagar/anshumantsagar&count_bg=%2379C83D&titlebg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumantsagar&color=blue)
 
 I am an accomplished professional delivering 4 years of expertise, particularly focusing on React, React Native and Next.js while thriving in the role of Senior Software Engineer at Overdose Digital in Melbourne. 
